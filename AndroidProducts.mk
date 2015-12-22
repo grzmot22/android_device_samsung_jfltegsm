@@ -10,5 +10,5 @@
   #
 
   PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_jfltegsm.mk \
+    $(LOCAL_DIR)/cm_jfltegsm.mk \
     $(LOCAL_DIR)/full_jfltegsm.mk

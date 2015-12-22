@@ -1,3 +1,3 @@
-add_lunch_combo aosp_jfltegsm-eng
-add_lunch_combo aosp_jfltegsm-user
-add_lunch_combo aosp_jfltegsm-userdebug
+add_lunch_combo cm_jfltegsm-eng
+add_lunch_combo cm_jfltegsm-user
+add_lunch_combo cm_jfltegsm-userdebug
