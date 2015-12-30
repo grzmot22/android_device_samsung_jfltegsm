@@ -26,7 +26,7 @@ LOCAL_PATH := device/samsung/jfltegsm
 include device/samsung/jf-common/BoardConfigCommon.mk
 
 # Assert
-TARGET_OTA_ASSERT_DEVICE := jflteatt,jfltecan,jfltetmo,jfltexx,jgedlte,jflte,i9505,GT-I9505,i9505g,GT-I9505G
+TARGET_OTA_ASSERT_DEVICE := jflteatt,jfltecan,jfltetmo,jfltexx,jfltezm,jgedlte,jflte,i9505,GT-I9505,i9505g,GT-I9505G,GT-I9507,GT-I9508
 
 # Releasetools
 TARGET_RELEASETOOLS_EXTENSIONS := $(LOCAL_PATH)/releasetools
